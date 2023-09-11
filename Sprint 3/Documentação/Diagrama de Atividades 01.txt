@@ -1,0 +1,38 @@
+Diagrama de Atividades 01
+
+Nome do caso de uso: Solicitação de Modal.
+Diálogo do caso de uso:
+
+Responder questionário
+
+	De acordo com as respostas dadas a respeito da situação do veículo,
+					Identificar problema e Sugerir Modal adequado
+
+	Se Cliente concordar com o tipo de Modal sugerido
+											Prossegue
+
+	Senão (se não concordar)
+				Apresenta todas as opções para que o Cliente selecione o Modal desejado manualmente
+
+	Cliente seleciona e confirma
+
+
+	É solicitado ao Cliente a sua localização
+				Cliente informa localização
+
+	Sistema traça possíveis rotas e informa tempo estimado de espera.
+
+
+	É gerado um Ticket
+
+
+Ações:
+
+Responder questionário
+Identificar problema e Sugerir Modal
+Apresentar as opções de Modais (não obrigatório)
+Selecionar Modal desejado (não obrigatório)
+Confirmar escolha do Modal
+Informar localização
+Traçar rota e Informar tempo de espera
+Gerar Ticket

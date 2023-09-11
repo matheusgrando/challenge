@@ -1,0 +1,5 @@
+Diagrama de Atividades 02
+
+Nome do caso de uso: Envio de modal.
+Diálogo do caso de uso:
+
