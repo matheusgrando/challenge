@@ -3,3 +3,33 @@ Diagrama de Atividades 02
 Nome do caso de uso: Envio de modal.
 Diálogo do caso de uso:
 
+Um novo chamado é registrado no sistema da Porto.
+
+	Selecionar "separar" o Modal requerido (seja ele qual for)
+
+	Motorista Parceiro parte com o Modal até local especificado
+
+
+	Motorista Parceiro e Cliente se encontram
+
+
+	Após Motorista Parceiro e Cliente se encontrarem,
+						Cliente apresenta Ticket
+
+	Se as informações contidas no Ticket estiverem de acordo,
+						Motorista Parceiro realiza serviço
+
+	Senão (se não estiverem de acordo)
+						É realizado uma averiguação para saber como o Motorista Parceiro pode ajudar com o problema.
+
+Fim.
+
+Ações:
+
+Registrar chamado
+Separar Modal
+Partir até o local
+Encontrar Cliente
+Apresentar Ticket
+Realizar serviço
+Realizar averiguação (não obrigatório)
